@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/joselucas/Escritorio/TFM/TAREAS/MaxRetweets/src/main/scala/MaxRetweets.scala:18:2: not found: value pintln[0m
+[0m[[0m[31merror[0m] [0m[0m	pintln("El usuario más activo es: " + usuarios.first)[0m
+[0m[[0m[31merror[0m] [0m[0m	^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

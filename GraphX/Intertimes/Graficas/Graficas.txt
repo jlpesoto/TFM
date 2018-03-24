@@ -1,0 +1,8 @@
+Codigo para tratamientode datos en SparkR:
+//HACER ESTO PARA CADA BLOQUE: BEFORE/DURING/AFTER
+before = read.table("/home/joselucas/Escritorio/TFM/TAREAS/GraphX/Intertimes/Graficas/input_before.txt")
+during = read.table("/home/joselucas/Escritorio/TFM/TAREAS/GraphX/Intertimes/Graficas/input_during.txt")
+after = read.table("/home/joselucas/Escritorio/TFM/TAREAS/GraphX/Intertimes/Graficas/input_after.txt")
+plot(before, col="red")
+
+

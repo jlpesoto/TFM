@@ -1,0 +1,17 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/joselucas/Escritorio/TFM/TAREAS/GraphX/Degrees/target/scala-2.11/degrees_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark/degrees/Degrees$$anonfun$main$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/joselucas/Escritorio/TFM/TAREAS/GraphX/Degrees/target/scala-2.11/classes/spark/degrees/Degrees$$anonfun$main$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/joselucas/Escritorio/TFM/TAREAS/GraphX/Degrees/target/scala-2.11/classes/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark/degrees[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/joselucas/Escritorio/TFM/TAREAS/GraphX/Degrees/target/scala-2.11/classes/spark/degrees[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark/degrees/Degrees.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/joselucas/Escritorio/TFM/TAREAS/GraphX/Degrees/target/scala-2.11/classes/spark/degrees/Degrees.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark/degrees/Degrees$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/joselucas/Escritorio/TFM/TAREAS/GraphX/Degrees/target/scala-2.11/classes/spark/degrees/Degrees$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark/degrees/Degrees$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/joselucas/Escritorio/TFM/TAREAS/GraphX/Degrees/target/scala-2.11/classes/spark/degrees/Degrees$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark/degrees/Degrees$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/joselucas/Escritorio/TFM/TAREAS/GraphX/Degrees/target/scala-2.11/classes/spark/degrees/Degrees$$anonfun$main$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

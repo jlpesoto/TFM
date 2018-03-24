@@ -1,0 +1,19 @@
+[0m[[0m[31merror[0m] [0m[0m/home/joselucas/Escritorio/TFM/TAREAS/GraphX/Density/src/main/scala/Density.scala:18:76: value split is not a member of (Int, Double)[0m
+[0m[[0m[31merror[0m] [0m[0m	degrees.coalesce(1,true).map(x => (x._1, x._2/total_degrees)).map( x => x.split(" ")(0) + " " +  x.split(" ")(1)).saveAsTextFile("output_degrees")[0m
+[0m[[0m[31merror[0m] [0m[0m	                                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/joselucas/Escritorio/TFM/TAREAS/GraphX/Density/src/main/scala/Density.scala:18:101: value split is not a member of (Int, Double)[0m
+[0m[[0m[31merror[0m] [0m[0m	degrees.coalesce(1,true).map(x => (x._1, x._2/total_degrees)).map( x => x.split(" ")(0) + " " +  x.split(" ")(1)).saveAsTextFile("output_degrees")[0m
+[0m[[0m[31merror[0m] [0m[0m	                                                                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/joselucas/Escritorio/TFM/TAREAS/GraphX/Density/src/main/scala/Density.scala:19:82: value split is not a member of (Int, Double)[0m
+[0m[[0m[31merror[0m] [0m[0m	outdegrees.coalesce(1,true).map(x => (x._1, x._2/total_outdegrees)).map( x => x.split(" ")(0) + " " +  x.split(" ")(1)).saveAsTextFile("output_outdegrees")[0m
+[0m[[0m[31merror[0m] [0m[0m	                                                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/joselucas/Escritorio/TFM/TAREAS/GraphX/Density/src/main/scala/Density.scala:19:107: value split is not a member of (Int, Double)[0m
+[0m[[0m[31merror[0m] [0m[0m	outdegrees.coalesce(1,true).map(x => (x._1, x._2/total_outdegrees)).map( x => x.split(" ")(0) + " " +  x.split(" ")(1)).saveAsTextFile("output_outdegrees")[0m
+[0m[[0m[31merror[0m] [0m[0m	                                                                                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/joselucas/Escritorio/TFM/TAREAS/GraphX/Density/src/main/scala/Density.scala:20:80: value split is not a member of (Int, Double)[0m
+[0m[[0m[31merror[0m] [0m[0m	indegrees.coalesce(1,true).map(x => (x._1, x._2/total_indegrees)).map( x => x.split(" ")(0) + " " +  x.split(" ")(1)).saveAsTextFile("output_indegrees")[0m
+[0m[[0m[31merror[0m] [0m[0m	                                                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/joselucas/Escritorio/TFM/TAREAS/GraphX/Density/src/main/scala/Density.scala:20:105: value split is not a member of (Int, Double)[0m
+[0m[[0m[31merror[0m] [0m[0m	indegrees.coalesce(1,true).map(x => (x._1, x._2/total_indegrees)).map( x => x.split(" ")(0) + " " +  x.split(" ")(1)).saveAsTextFile("output_indegrees")[0m
+[0m[[0m[31merror[0m] [0m[0m	                                                                                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m

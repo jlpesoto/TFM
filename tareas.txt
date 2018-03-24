@@ -1,0 +1,33 @@
+-para hacer graficos: R
+-comparar rendimiento y lineas de codigo Scala vs grahp
+
+Tarea siguiente:
+1-Mirar grafos(1º en spark y despues introduccion a los grafos)
+2-Analsis del paper
+3- Evaluación en clouster (graficas y analisis)
+4- Nuevos análisis(spark vs grafos) + evluacion en clouster
+5- Escribir 
+Estado del arte escribir de scala y spark. hadoop en general bigdata y tambien social network analisis. 
+Metodología:
+Implementacion
+Presupuesto: mirar amazon cpus
+
+ 
+
+---------------------------------------
+1- Graficos de densidad (contando tweets, retweets y mentions)
+2- Gráficos tweets/seg (=)
+3- Intertimes: una vez tengo los sucesos ordenados cómo se pueden restar?
+time_A n_A
+time_B n_B
+...     ...
+Necesito un RDD: time_B-timeA n_B+n_A
+4-Por qué son distinas las figuras 4 y 5
+5- formalizacion
+
+------reunión:
+Intentar analisis:
+- Mirar usuarios que aparecen, son muy activos, desaparecen.
+- Caracterizar los activos: numero de tweets, que es lo que mas hacen(tweets, retweets) y clasificacion: tres usuarios más activos
+- Apuntar los problemas que van surgiendo como se quedaba bloqueado por memoria, el problema del intertimes.
+- Probar el tiempo que tarda en ejecutar el programa en funcion de la memoria que le asignas y hacer una gráfica 

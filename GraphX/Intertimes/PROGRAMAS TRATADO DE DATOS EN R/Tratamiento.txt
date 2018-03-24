@@ -1,0 +1,14 @@
+Codigo para tratamientode datos en SparkR:
+//HACER ESTO PARA CADA BLOQUE: BEFORE/DURING/AFTER
+datos = read.table("/home/joselucas/Escritorio/TFM/TAREAS/GraphX/Intertimes/PROGRAMAS TRATADO DE DATOS EN R/input.txt")
+datos$V3=0
+datos$V4=0
+a = length(datos$V1)-1
+for(i in 1:a) {
+datos$V3[i]=datos$V1[i+1]-datos$V1[i]
+datos$V4[i]=datos$V2[i+1]+datos$V2[i]
+}
+resultado <- data.frame(V1=datos$V3, V2=datos$V4)
+write.table(resultado, file="/home/joselucas/Escritorio/TFM/TAREAS/GraphX/Intertimes/PROGRAMAS TRATADO DE DATOS EN R/output.txt", sep= " ", col.names = FALSE, row.names=FALSE)
+
+

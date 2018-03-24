@@ -1,0 +1,29 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/joselucas/Escritorio/TFM/TAREAS/GraphX/Density/target/scala-2.11/density_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark/density/Density$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/joselucas/Escritorio/TFM/TAREAS/GraphX/Density/target/scala-2.11/classes/spark/density/Density$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark/density/Density.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/joselucas/Escritorio/TFM/TAREAS/GraphX/Density/target/scala-2.11/classes/spark/density/Density.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark/density/Density$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/joselucas/Escritorio/TFM/TAREAS/GraphX/Density/target/scala-2.11/classes/spark/density/Density$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark/density/Density$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/joselucas/Escritorio/TFM/TAREAS/GraphX/Density/target/scala-2.11/classes/spark/density/Density$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/joselucas/Escritorio/TFM/TAREAS/GraphX/Density/target/scala-2.11/classes/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark/density/Density$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/joselucas/Escritorio/TFM/TAREAS/GraphX/Density/target/scala-2.11/classes/spark/density/Density$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark/density/Density$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/joselucas/Escritorio/TFM/TAREAS/GraphX/Density/target/scala-2.11/classes/spark/density/Density$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark/density/Density$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/joselucas/Escritorio/TFM/TAREAS/GraphX/Density/target/scala-2.11/classes/spark/density/Density$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark/density[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/joselucas/Escritorio/TFM/TAREAS/GraphX/Density/target/scala-2.11/classes/spark/density[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark/density/Density$$anonfun$main$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/joselucas/Escritorio/TFM/TAREAS/GraphX/Density/target/scala-2.11/classes/spark/density/Density$$anonfun$main$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark/density/Density$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/joselucas/Escritorio/TFM/TAREAS/GraphX/Density/target/scala-2.11/classes/spark/density/Density$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark/density/Density$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/joselucas/Escritorio/TFM/TAREAS/GraphX/Density/target/scala-2.11/classes/spark/density/Density$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark/density/Density$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/joselucas/Escritorio/TFM/TAREAS/GraphX/Density/target/scala-2.11/classes/spark/density/Density$$anonfun$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

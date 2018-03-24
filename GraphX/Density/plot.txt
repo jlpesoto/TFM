@@ -1,0 +1,5 @@
+Codigo para ver los gráficos en SparkR:
+datos = read.table("/home/joselucas/Escritorio/plotear.txt")
+plot(datos, col="red", log="x")
+
+
